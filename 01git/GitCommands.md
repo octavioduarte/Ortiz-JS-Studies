@@ -56,3 +56,12 @@
 ~~~bash
      git pull origin branch_name
 ~~~
+
+
+<br/>
+
+
+> Cria uma nova branch a partir da branch atual:
+~~~bash
+     git checkout -b new_branch_name
+~~~
