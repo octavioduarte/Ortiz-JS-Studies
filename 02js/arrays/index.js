@@ -14,4 +14,5 @@ const nullType = null
 const arrayType = [ nameUser, age, brazilian, bornDate ]
 
 
+
 console.log(arrayType)
