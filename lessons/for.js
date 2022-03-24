@@ -10,3 +10,26 @@ const arrayNumbers = [1, 2, 3, 4, 5]
 
 
 // Digite sua resposta na linha abaixo
+
+
+
+/**
+ * Monte um "for" que imprima no terminal os números de 0 até 100 de forma decrescente
+ */
+
+
+// Digite sua resposta na linha abaixo
+
+
+
+
+
+
+/**
+ * Monte um "for" que imprima no terminal os números de 0 até 100, com exceção dos números divisiveis por 3
+ * 
+ * Dica: Use o operador "%" (Resto da divisão) 
+ */
+
+
+// Digite sua resposta na linha abaixo
